@@ -1,0 +1,5 @@
+com\qa\flipkart\Pages\EthinicSelection.class
+com\qa\flipkart\Pages\HomePage.class
+com\qa\flipkart\Pages\LoginPage.class
+com\qa\flipkart\testUtil\CommonFunctionality.class
+com\qa\flipkart\TestBase\DriverClass.class

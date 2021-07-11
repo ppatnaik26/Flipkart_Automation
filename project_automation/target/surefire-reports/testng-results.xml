@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="23930" started-at="2021-07-11T16:56:09 IST" finished-at="2021-07-11T16:56:33 IST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="8339" started-at="2021-07-11T16:56:09 IST" finished-at="2021-07-11T16:56:17 IST">
+      <class name="com.qa.flipkart.TestCases.LoginPageTest">
+        <test-method status="PASS" signature="doVerifyLoginPage()[pri:1, instance:com.qa.flipkart.TestCases.LoginPageTest@3439f68d]" name="doVerifyLoginPage" duration-ms="8304" started-at="2021-07-11T16:56:09 IST" finished-at="2021-07-11T16:56:17 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- doVerifyLoginPage -->
+      </class> <!-- com.qa.flipkart.TestCases.LoginPageTest -->
+    </test> <!-- Test -->
+    <test name="Test2" duration-ms="15571" started-at="2021-07-11T16:56:18 IST" finished-at="2021-07-11T16:56:33 IST">
+      <class name="com.qa.flipkart.TestCases.LoginPageTest">
+        <test-method status="PASS" signature="SetUp()[pri:0, instance:com.qa.flipkart.TestCases.LoginPageTest@3439f68d]" name="SetUp" is-config="true" duration-ms="4257" started-at="2021-07-11T16:55:54 IST" finished-at="2021-07-11T16:55:58 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetUp -->
+      </class> <!-- com.qa.flipkart.TestCases.LoginPageTest -->
+      <class name="com.qa.flipkart.TestCases.HomePageTest">
+        <test-method status="PASS" signature="SetUp()[pri:0, instance:com.qa.flipkart.TestCases.HomePageTest@69a10787]" name="SetUp" is-config="true" duration-ms="11333" started-at="2021-07-11T16:55:58 IST" finished-at="2021-07-11T16:56:09 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetUp -->
+        <test-method status="PASS" signature="VerifyTitle()[pri:1, instance:com.qa.flipkart.TestCases.HomePageTest@69a10787]" name="VerifyTitle" duration-ms="5113" started-at="2021-07-11T16:56:18 IST" finished-at="2021-07-11T16:56:23 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyTitle -->
+        <test-method status="PASS" signature="Verify_Ethinic()[pri:2, instance:com.qa.flipkart.TestCases.HomePageTest@69a10787]" name="Verify_Ethinic" duration-ms="10455" started-at="2021-07-11T16:56:23 IST" finished-at="2021-07-11T16:56:33 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Verify_Ethinic -->
+      </class> <!-- com.qa.flipkart.TestCases.HomePageTest -->
+    </test> <!-- Test2 -->
+  </suite> <!-- Suite -->
+</testng-results>
